@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate cloud data and devOps engineer wi
 Here are some of the tools and technologies I enjoy working with:
 
 - **Languages**: Python, Java, JavaScript
-- **Web Technologies**: React, Bootstrap, HTML, CSS
+- **Web Technologies**: FastAPI, LiteStar, React, Bootstrap, HTML, CSS
 - **Databases**: PostgreSQL, BigQuery
 - **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, CI/CD, Pulumi
 - **Version Control**: Git, GitHub, Bitbucket
