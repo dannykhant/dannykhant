@@ -11,10 +11,11 @@ Here are some of the tools and technologies I enjoy working with:
 - **Languages**: Python, Java, JavaScript
 - **Web Technologies**: FastAPI, LiteStar, React, Bootstrap, HTML, CSS
 - **Databases**: PostgreSQL, BigQuery
-- **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, CI/CD, Pulumi
+- **Cloud & DevOps**: AWS, GCP, Kubernetes, Pulumi
+- **DataOps**: AirByte
 - **Version Control**: Git, GitHub, Bitbucket
 - **Tools**: VSCode, PyCharm, Docker, Postman
-- **Others**: Agile, Scrum, REST APIs
+- **Others**: Agile, Scrum
 
 ---
 
