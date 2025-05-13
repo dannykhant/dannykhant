@@ -8,14 +8,14 @@ Welcome to my GitHub profile! I'm a passionate cloud data and devOps engineer wi
 
 Here are some of the tools and technologies I enjoy working with:
 
-- **Languages**: Python, Java, JavaScript
-- **Web Technologies**: FastAPI, LiteStar, React, Bootstrap, HTML, CSS
-- **Databases**: PostgreSQL, BigQuery
-- **Cloud & DevOps**: AWS, GCP, Kubernetes, Pulumi
-- **DataOps**: AirByte
+- **Languages**: Python, SQL
+- **Web Technologies**: FastAPI, LiteStar, Bootstrap, HTML, CSS
+- **Databases**: PostgreSQL, SQLite
+- **Cloud & DevOps**: AWS, GCP, Kubernetes, Pulumi, BitbucketPipelines
+- **DataOps**: BigQuery, AirByte, Singer
 - **Version Control**: Git, GitHub, Bitbucket
 - **Tools**: VSCode, PyCharm, Docker, Postman
-- **Others**: Agile, Scrum
+- **Others**: Agile, Scrum, Kanban
 
 ---
 
