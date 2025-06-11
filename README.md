@@ -31,5 +31,4 @@ I'm always happy to connect and collaborate! Feel free to reach out to me on any
 
 If you’re working on an exciting project or have an idea you’d like to collaborate on, feel free to reach out. I’m always open to learning, growing, and working with other developers!
 
----
 
