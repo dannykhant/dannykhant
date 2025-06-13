@@ -10,9 +10,9 @@ Here are some of the tools and technologies I enjoy working with:
 
 - **Languages**: SQL, Python, Java, Scala
 - **Web Technologies**: FastAPI, LiteStar
-- **Databases**: PostgreSQL, MySQL, SQLite
+- **Databases**: PostgreSQL, MySQL, SQLite, SQLServer
 - **Cloud & DevOps**: AWS, GCP, Azure, Kubernetes, Docker, Pulumi, BitbucketPipelines
-- **DataOps**: Spark, BigQuery, AirByte, Singer
+- **DataOps**: Spark, BigQuery, AirByte, Airflow
 - **Version Control**: Git, GitHub, Bitbucket
 - **Others**: Agile, Scrum, Kanban
 
