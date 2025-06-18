@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm a passionate cloud data and devOps engineer wi
 Here are some of the tools and technologies I enjoy working with:
 
 - **Languages**: SQL, Python, Scala
-- **Web Technologies**: FastAPI, LiteStar
+- **Web Technologies**: FastAPI, LiteStar, Flask
 - **Databases**: PostgreSQL, MySQL, SQLite, SQLServer
 - **Data Warehouses**: BigQuery, Databricks
 - **Cloud**: AWS, GCP, Azure
 - **DataOps**: Spark, AirByte, Airflow, dbt
-- **DevOps** Kubernetes, Docker, Pulumi, BitbucketPipelines
+- **DevOps**: Kubernetes, Docker, Pulumi, BitbucketPipelines
 - **Version Control**: Git, GitHub, Bitbucket
 - **Others**: Agile, Scrum, Kanban
 
