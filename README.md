@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Danny!
 
-Welcome to my GitHub profile! I'm a passionate cloud data and devOps engineer with a love for creating innovative solutions. Below, you'll find some information about me, and how to connect with me.
+Welcome to my GitHub profile! I'm a passionate cloud data engineer with a love for creating innovative solutions. Below, you'll find some information about me, and how to connect with me.
 
 ---
 
@@ -9,12 +9,13 @@ Welcome to my GitHub profile! I'm a passionate cloud data and devOps engineer wi
 Here are some of the tools and technologies I enjoy working with:
 
 - **Languages**: SQL, Python, Scala
-- **Web Technologies**: FastAPI, LiteStar, Flask
+- **Data Processing**: BigQuery, Spark, dbt, Iceberg
+- **Data Ingestion**: AirByte
+- **Orchestration**: Airflow
 - **Databases**: PostgreSQL, MySQL, SQLite, SQLServer
-- **Data Warehouses**: BigQuery, Databricks
-- **Cloud**: AWS, GCP, Azure
-- **DataOps**: Spark, AirByte, Airflow, dbt
 - **DevOps**: Kubernetes, Docker, Pulumi, BitbucketPipelines
+- **Cloud**: AWS, GCP, Azure
+- **Web Technologies**: FastAPI, LiteStar, Flask
 - **Version Control**: Git, GitHub, Bitbucket
 - **Others**: Agile, Scrum, Kanban
 
