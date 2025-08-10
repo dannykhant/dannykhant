@@ -1,37 +1,20 @@
-# 👋 Hello World, I'm Danny!
+# DANNY KHANT — Data Engineer
 
-Welcome to my GitHub profile! I'm a passionate cloud data engineer with a love for creating innovative solutions. Below, you'll find some information about me, and how to connect with me.
-
----
-
-## 🔧 Skills & Technologies
-
-Here are some of the tools and technologies I enjoy working with:
-
-- **Languages**: SQL, Python, Scala
-- **Data Processing**: BigQuery, Spark, dbt, Iceberg
-- **Data Ingestion**: AirByte
-- **Orchestration**: Airflow
-- **Databases**: PostgreSQL, MySQL, SQLite, SQLServer
-- **DevOps**: Kubernetes, Docker, Pulumi, BitbucketPipelines
-- **Cloud**: AWS, GCP, Azure
-- **Web Technologies**: FastAPI, LiteStar, Flask
-- **Version Control**: Git, GitHub, Bitbucket
-- **Others**: Agile, Scrum, Kanban
+I design and maintain **scalable, reliable data pipelines** and optimize workflows for analytics and machine learning.  
+Experienced in **ETL/ELT**, **cloud data platforms**, and **big data processing**.
 
 ---
 
-## 🌍 Let's Connect
-
-I'm always happy to connect and collaborate! Feel free to reach out to me on any of these platforms:
-
-- 📧 **Email**: [dannypmkhant@gmail.com](mailto:dannypmkhant@gmail.com)
-- 💼 **LinkedIn**: [Danny Khant](https://www.linkedin.com/in/dannykhant/)
+**Core Skills:**  
+Python · SQL · Scala · Java · Apache Spark · Airflow · dbt · Databricks · BigQuery · Data Modeling · Streaming Data
 
 ---
 
-## 💻 I'm Open to Collaborating!
+**Selected Projects:**
+- [**PySpark Data Processing**](https://github.com/dannykhant/hello-pyspark) — Built ETL pipelines and performed large-scale data transformations with PySpark  
+- [**Airflow Workflow Orchestration**](https://github.com/dannykhant/hello-airflow) — Developed automated data pipelines with Apache Airflow  
+- [**Data Modeling & Streaming**](https://github.com/dannykhant/community-bootcamp) — Designed data models and implemented big data processing & streaming pipelines
 
-If you’re working on an exciting project or have an idea you’d like to collaborate on, feel free to reach out. I’m always open to learning, growing, and working with other developers!
+---
 
-
+📫 **Contact:** [LinkedIn](https://linkedin.com/in/dannykhant) · [Email](mailto:dannypmkhant@gmail.com)
