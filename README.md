@@ -3,7 +3,7 @@
 Hello! I am Danny. I design and maintain **scalable, reliable data pipelines** and optimize workflows for analytics and machine learning. Experienced in **ETL/ELT**, **cloud data platforms**, and **big data processing**.
 
 ### Core Skills
-Python · SQL · Spark · Airflow · dbt · DeltaLake · Databricks · BigQuery · Data Modeling
+Python · SQL · Data Warehousing · Data Modeling · Data Orchestration · Distributed Data Processing · Data Quality Testing
 
 ### Selected Projects
 - [**PySpark Data Processing**](https://github.com/dannykhant/hello-pyspark) — Built ETL pipelines and performed large-scale data transformations with PySpark  
