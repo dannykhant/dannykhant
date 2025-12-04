@@ -1,6 +1,6 @@
 ## Hi there!
 
-Hi, I’m Danny. I build scalable data pipelines and cloud-based data systems for analytics and machine learning. My primary focus areas include ETL/ELT, data modeling, and ML operations.
+Hi, I'm Danny. I build scalable data pipelines and cloud-based data systems for analytics and machine learning. My primary focus areas include ETL/ELT, data modeling, and ML operations.
 
 ### Core Skills
 Python · SQL · Data Warehousing · Data Modeling · Orchestration · Distributed Processing · Data Quality · Machine Learning
