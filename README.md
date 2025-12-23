@@ -1,16 +1,32 @@
-## Hi there!
+## Hi, I’m Danny
 
-Hi, I'm Danny. I build scalable data pipelines and cloud-based data systems for analytics and machine learning. My primary focus areas include ETL/ELT, data modeling, and ML operations.
+I’m a Data Engineer focused on building reliable, scalable data platforms for analytics and machine learning. I enjoy turning raw, messy data into clean, well-modeled datasets that teams can actually trust.
 
-### Core Skills
-Python · SQL · Data Warehousing · Data Modeling · Orchestration · Distributed Processing · Data Quality · Machine Learning
+My work sits at the intersection of **data engineering, cloud infrastructure, and ML systems** — with a strong emphasis on production readiness, observability, and reproducibility.
 
-### Selected Projects
-- [**Ecommerce Data Pipeline**](https://github.com/dannykhant/ecomm-data-pipeline) - End-to-end pipeline using AWS S3, Databricks Declarative Pipelines, Delta Lake, dbt, and Tableau.
-- [**Employee Churn Prediction**](https://github.com/dannykhant/mlz-employee-churn-prediction) - ML project with multiple classification models, served via FastAPI, containerized with Docker, and deployed on Render.
+### What I Work With
+- **Languages**: Python, SQL  
+- **Data Engineering**: ETL/ELT, Data Modeling, Data Quality, Incremental Processing
+- **ML Systems**: Feature preparation, Model training pipelines, FastAPI serving, Docker  
 
-##
+### Featured Projects
+- **[E-commerce Data Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)**  
+  End-to-end analytics pipeline using AWS S3, Databricks Declarative Pipelines, Delta Lake, dbt, and Tableau.  
+  *Focus: medallion architecture, data modeling, and analytics-ready outputs.*
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://linkedin.com/in/dannykhant) or via email at [Email](mailto:dannypmkhant@gmail.com).
+- **[Weather Data Pipeline](https://github.com/dannykhant/weather-data-pipeline)**  
+  Automated pipeline ingesting weather data from an external API into S3 and Snowflake, orchestrated with Apache Airflow.    
+  *Focus: API ingestion, workflow orchestration, scheduling, and end-to-end pipeline automation.*
 
-_Thank you for visiting my profile!_
+- **[Employee Churn Prediction](https://github.com/dannykhant/mlz-employee-churn-prediction)**  
+  Machine learning project with multiple classification models, FastAPI-based inference service, Dockerized and deployed on Render.  
+  *Focus: ML workflow, model evaluation, and deployment.*
+
+- **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)**  
+  Face recognition project focused on model training, hyperparameter tuning, and embedding-based inference using deep learning.  
+  *Focus: transfer learning, model evaluation, and inference logic.*
+
+---
+
+Connect with me on [LinkedIn](https://linkedin.com/in/dannykhant)  
+Or reach me at [dannypmkhant@gmail.com](mailto:dannypmkhant@gmail.com)
