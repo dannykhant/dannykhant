@@ -6,8 +6,8 @@ My work sits at the intersection of **data engineering, cloud infrastructure, an
 
 ### What I Work With
 - **Languages**: Python, SQL  
-- **Data Engineering**: ETL/ELT, Data Modeling, Data Quality, Incremental Processing
-- **ML Systems**: Feature preparation, Model training pipelines, FastAPI serving, Docker  
+- **Data Engineering**: ETL/ELT, data modeling, data quality, incremental processing
+- **ML Engineering**: Feature preparation, model training, evaluation, and inference workflows
 
 ### Featured Projects
 - **[E-commerce Data Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)**  
