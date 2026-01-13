@@ -1,30 +1,25 @@
 ## Hi, I’m Danny
 
-I’m a Data Engineer focused on building reliable, scalable data platforms for analytics and machine learning. I enjoy turning raw, messy data into clean, well-modeled datasets that teams can actually trust.
+I am a Data & ML Engineer with over 10 years of experience building production-grade data systems across fintech, FMCG, and SME platforms. My work bridges the gap between data engineering, cloud infrastructure, and machine learning, with a heavy focus on near-real-time pipelines and scalable model deployment.
 
-My work sits at the intersection of **data engineering, cloud infrastructure, and ML systems** — with a strong emphasis on production readiness, observability, and reproducibility.
-
-### What I Work With
-- **Languages**: Python, SQL  
-- **Data Engineering**: ETL/ELT, data modeling, data quality, incremental processing
-- **ML Engineering**: Feature preparation, model training, evaluation, and inference workflows
+### Technical Toolkit
+- **Languages**: Python, SQL, Rust
+- **Data Engineering**: Data Modeling, Data Warehousing, Snowflake, Databricks, BigQuery, Airflow
+- **Machine Learning**: Model Deployment, Model Training, RAG, Sklearn, PyTorch, Keras, OpenAI, Vector Databases
+- **DevOps & Infrastructure**: FastAPI, CI/CD, IaC, AWS, Linux
 
 ### Featured Projects
 - **[E-commerce Data Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)**  
   End-to-end analytics pipeline using AWS S3, Databricks Declarative Pipelines, Delta Lake, dbt, and Tableau.  
-  *Focus: medallion architecture, data modeling, and analytics-ready outputs.*
 
 - **[Weather Data Pipeline](https://github.com/dannykhant/weather-data-pipeline)**  
   Automated pipeline ingesting weather data from an external API into S3 and Snowflake, orchestrated with Apache Airflow.    
-  *Focus: API ingestion, workflow orchestration, scheduling, and end-to-end pipeline automation.*
 
 - **[Employee Churn Prediction](https://github.com/dannykhant/mlz-employee-churn-prediction)**  
   Machine learning project with multiple classification models, FastAPI-based inference service, Dockerized and deployed on Render.  
-  *Focus: ML workflow, model evaluation, and deployment.*
 
 - **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)**  
-  Face recognition project focused on model training, hyperparameter tuning, and embedding-based inference using deep learning.  
-  *Focus: transfer learning, model evaluation, and inference logic.*
+  Face recognition project focused on model training, hyperparameter tuning, and embedding-based inference using deep learning.
 
 ---
 
