@@ -21,6 +21,9 @@ I am a Data & ML Engineer with over 10 years of experience building production-g
 - **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)**  
   Face recognition project focused on model training, hyperparameter tuning, and embedding-based inference using deep learning.
 
+- **[Small Language Model](https://github.com/dannykhant/mlz-small-language-model)**  
+  A Keras-based Transformer with a Rust/Axum inference service and ONNX quantization, deployed on local Kubernetes via kind.
+
 ---
 
 Connect with me on [LinkedIn](https://linkedin.com/in/dannykhant)  
