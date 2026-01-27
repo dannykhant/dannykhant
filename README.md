@@ -1,29 +1,33 @@
 ## Hi, I’m Danny
 
-I am a Data & ML Engineer with over 10 years of experience building production-grade data systems across fintech, FMCG, and SME platforms. My work bridges the gap between data engineering, cloud infrastructure, and machine learning, with a heavy focus on near-real-time pipelines and scalable model deployment.
+I am an Engineer specializing in Data, ML, and LLM Engineering. With over 10 years of experience, I design and scale production-grade systems across fintech, FMCG, and SME sectors. I specialize in developing scalable data architectures, machine learning workflows, and AI-driven solutions using Python and Rust.
 
 ### Technical Toolkit
-- **Languages**: Python, SQL, Rust
-- **Data Engineering**: Data Modeling, Data Warehousing, Snowflake, Databricks, BigQuery, Airflow
-- **Machine Learning**: Model Deployment, Model Training, RAG, Sklearn, PyTorch, Keras, OpenAI, Vector Databases
-- **DevOps & Infrastructure**: FastAPI, CI/CD, IaC, AWS, Linux
+- **Languages**: Python, Rust, SQL
+- **Data Engineering**: Medallion Architecture, Data Lakehouse, Distributed Processing, Data Modeling, Workflow Orchestration (DAGs), Change Data Capture (CDC)
+- **AI & LLM Engineering**: Retrieval-Augmented Generation (RAG), Large Language Models (LLM), Vector Databases, Embedding-based Inference, Model Quantization (ONNX)
+- **Machine Learning Ops**: Model Training & Deployment, Distributed Training, Hyperparameter Tuning, Feature Engineering, Model Monitoring
+- **Infrastructure & Systems**: High-Performance Inference Services, Containerization, CI/CD, Infrastructure as Code (IaC), Cloud-Native Architectures, Linux Systems
 
 ### Featured Projects
+- **[5K Running Coach](https://github.com/dannykhant/running-coach-5k)**  
+  A production-ready RAG system utilizing hybrid search techniques and rigorous evaluation to provide expert running guidance.
+  
 - **[E-commerce Data Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)**  
-  End-to-end analytics pipeline using AWS S3, Databricks Declarative Pipelines, Delta Lake, dbt, and Tableau.  
+  End-to-end analytics pipeline implementing a Medallion Architecture (Bronze/Silver/Gold) with declarative data pipelines and versioned data storage.
 
 - **[Weather Data Pipeline](https://github.com/dannykhant/weather-data-pipeline)**  
-  Automated pipeline ingesting weather data from an external API into S3 and Snowflake, orchestrated with Apache Airflow.    
+  Automated ingestion engine for external API data into a cloud data warehouse, orchestrated using Directed Acyclic Graphs (DAGs) for workflow management.
 
 - **[Employee Churn Prediction](https://github.com/dannykhant/mlz-employee-churn-prediction)**  
-  Machine learning project with multiple classification models, FastAPI-based inference service, Dockerized and deployed on Render.  
+  Machine learning system featuring multiple classification models and a high-concurrency FastAPI inference service, fully containerized for deployment.  
 
 - **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)**  
-  Face recognition project focused on model training, hyperparameter tuning, and embedding-based inference using deep learning.
+  Deep learning project focused on model training, hyperparameter tuning, and embedding-based inference using neural networks.
 
 - **[Small Language Model](https://github.com/dannykhant/mlz-small-language-model)**  
-  A Keras-based Transformer with a Rust/Axum inference service and ONNX quantization, deployed on local Kubernetes via kind.
-
+  Transformer-based model featuring a Rust-based inference service, ONNX quantization, and orchestration via local container clusters.
+  
 ---
 
 Connect with me on [LinkedIn](https://linkedin.com/in/dannykhant)  
