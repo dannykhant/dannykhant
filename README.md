@@ -1,13 +1,13 @@
 ## Hi, I’m Danny
 
-I am an Engineer specializing in Data, ML, and LLM Engineering. With over 10 years of experience, I design and scale production-grade systems across fintech, FMCG, and SME sectors. I specialize in developing scalable data architectures, machine learning workflows, and AI-driven solutions using Python and Rust.
+I am an Engineer specializing in Data and Platform Engineering. With over 12 years of experience, I design and scale production-grade systems across Banking, FMCG, and SME sectors. I specialize in developing scalable data architectures, machine learning workflows, and AI-driven solutions using cutting-edge technologies.
 
 ### Technical Toolkit
-- **Languages**: SQL, Python, Rust, Java
-- **Data Engineering**: Medallion Architecture, Data Lakehouse, Distributed Processing, Data Modeling, Workflow Orchestration (DAGs), Change Data Capture (CDC)
-- **AI & LLM Engineering**: Retrieval-Augmented Generation (RAG), Large Language Models (LLM), Vector Databases, Embedding-based Inference, Model Quantization (ONNX)
-- **Machine Learning Ops**: Model Training & Deployment, Distributed Training, Hyperparameter Tuning, Feature Engineering, Model Monitoring
-- **Infrastructure & Systems**: High-Performance Inference Services, Containerization, CI/CD, Infrastructure as Code (IaC), Cloud-Native Architectures, Linux Systems
+- **Languages**: SQL, Python, Java, Rust
+- **Data Engineering**: Medallion Architecture, Data Lakehouse, Distributed Processing (MPP), Data Modeling, Workflow Orchestration (DAGs), Change Data Capture (CDC), Open-Table Format
+- **LLM Engineering**: Retrieval-Augmented Generation (RAG), Large Language Models (LLM), Vector Databases, Agentic Workflows
+- **MLOps**: Model Training & Deployment, Hyperparameter Tuning, Feature Engineering, Model Monitoring
+- **Infrastructure & Systems**: Containerization, CI/CD, Infrastructure as Code (IaC), Cloud-Native Architectures, Linux Systems
 
 ### Featured Projects
 - **[Open-source Data Platform](https://github.com/dannykhant/data-platform-oss)**  
