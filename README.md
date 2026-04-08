@@ -1,37 +1,57 @@
 ## Hi, I’m Danny
 
-I am an Engineer specializing in Data and Platform Engineering. With over 12 years of experience, I design and scale production-grade systems across Banking, FMCG, and SME sectors. I specialize in developing scalable data architectures, machine learning workflows, and AI-driven solutions using cutting-edge technologies.
+**Data & Platform Engineer (10+ years)**  
+I build scalable data platforms, production ML systems, and AI-powered applications across banking, FMCG, and SMEs.
 
-### Technical Toolkit
-- **Languages**: SQL, Python, Java, Rust
-- **Data Engineering**: Medallion Architecture, Data Lakehouse, Distributed Processing (MPP), Data Modeling, Workflow Orchestration (DAGs), Change Data Capture (CDC), Open-Table Format
-- **LLM Engineering**: Retrieval-Augmented Generation (RAG), Large Language Models (LLM), Vector Databases, Agentic Workflows
-- **MLOps**: Model Training & Deployment, Hyperparameter Tuning, Feature Engineering, Model Monitoring
-- **Infrastructure & Systems**: Containerization, CI/CD, Infrastructure as Code (IaC), Cloud-Native Architectures, Linux Systems
-
-### Featured Projects
-- **[Open-source Data Platform](https://github.com/dannykhant/data-platform-oss)**  
-  Cloud-native Lakehouse architecture featuring Iceberg/Nessie for Git-like data versioning and Trino with KEDA/Prometheus for event-driven horizontal autoscaling of distributed query workers.
-  
-- **[E-commerce Data Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)**  
-  End-to-end analytics pipeline implementing a Medallion Architecture (Bronze/Silver/Gold) with declarative data pipelines and versioned data storage.
-
-- **[Weather Data Pipeline](https://github.com/dannykhant/weather-data-pipeline)**  
-  Automated ingestion engine for external API data into a cloud data warehouse, orchestrated using Directed Acyclic Graphs (DAGs) for workflow management.
-
-- **[Employee Churn Prediction](https://github.com/dannykhant/mlz-employee-churn-prediction)**  
-  Machine learning system featuring multiple classification models and a high-concurrency FastAPI inference service, fully containerized for deployment.  
-
-- **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)**  
-  Deep learning project focused on model training, hyperparameter tuning, and embedding-based inference using neural networks.
-
-- **[Small Language Model](https://github.com/dannykhant/mlz-small-language-model)**  
-  Transformer-based model featuring a Rust-based inference service, ONNX quantization, and orchestration via local container clusters.
-
-- **[5K Running Coach](https://github.com/dannykhant/running-coach-5k)**  
-  A production-ready RAG system utilizing hybrid search techniques and rigorous evaluation to provide expert running guidance.
-  
 ---
 
-Connect with me on [LinkedIn](https://linkedin.com/in/dannykhant)  
-Or reach me at [dannypmkhant@gmail.com](mailto:dannypmkhant@gmail.com)
+### What I Do
+- Design **lakehouse & distributed data systems**
+- Build **end-to-end data pipelines (batch & streaming)**
+- Develop **ML & LLM-powered applications (RAG, agents)**
+- Productionize systems with **cloud-native & DevOps practices**
+
+---
+
+### Tech Stack
+- **Languages**: SQL, Python, Java, Rust
+- **Data**: Lakehouse, Medallion, Spark/Trino, BigQuery, Iceberg, dbt, Airflow, CDC, Data Quality
+- **ML/AI**: MLOps, RAG, LLMs, Vector DBs  
+- **Infra**: Docker, Kubernetes, CI/CD, IaC, Cloud  
+
+---
+
+### Selected Projects
+
+- **[Thailand Air Quality Insights](https://github.com/dannykhant/dez-th-air-quality)**  
+  End-to-end GCP pipeline (Airflow + dbt + BigQuery) for PM2.5 analytics with data quality checks and BI-ready marts.
+
+- **[E-commerce Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)**  
+  Medallion architecture with production-grade data modeling.
+
+- **[Weather Pipeline](https://github.com/dannykhant/weather-data-pipeline)**  
+  DAG-based ingestion pipeline into a cloud warehouse.
+
+- **[Churn Prediction](https://github.com/dannykhant/mlz-employee-churn-prediction)**  
+  ML system with FastAPI inference + containerized deployment.
+
+- **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)**  
+  Deep learning system with embedding-based inference and model optimization.
+
+- **[Small Language Model](https://github.com/dannykhant/mlz-small-language-model)**  
+  Transformer + Rust inference + ONNX optimization.
+
+- **[Data Platform (OSS)](https://github.com/dannykhant/data-platform-oss)**  
+  Lakehouse platform with Iceberg + Trino, autoscaled via KEDA.
+
+- **[RAG Running Coach](https://github.com/dannykhant/running-coach-5k)**  
+  Retrieval-based AI system with evaluation pipeline.
+
+- **[AI Body Weight Assistant](https://github.com/your-repo/body-weight-assistant)**  
+  Multi-agent AI system (ADK + Gemini) with orchestrator pattern, human-in-the-loop workflow, and personalized fitness planning.
+
+---
+
+### Contact
+- LinkedIn: https://linkedin.com/in/dannykhant  
+- Email: dannypmkhant@gmail.com  
