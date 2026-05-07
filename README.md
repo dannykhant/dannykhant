@@ -47,7 +47,7 @@ I build scalable data platforms, production ML systems, and AI-powered applicati
 - **[RAG Running Coach](https://github.com/dannykhant/running-coach-5k)**  
   Retrieval-based AI system with evaluation pipeline.
 
-- **[AI Body Weight Assistant](https://github.com/your-repo/body-weight-assistant)**  
+- **[AI Body Weight Assistant](https://github.com/dannykhant/body-weight-assistant)**  
   Multi-agent AI system (ADK + Gemini) with orchestrator pattern, human-in-the-loop workflow, and personalized fitness planning.
 
 ---
