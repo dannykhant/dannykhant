@@ -1,57 +1,52 @@
-## Hi, I’m Danny
+# Hi, I’m Danny
 
-**Data & Platform Engineer (10+ years)**  
-I build scalable data platforms, production ML systems, and AI-powered applications across banking, FMCG, and SMEs.
+**AI Engineer | Data Platform Engineer**
+
+AI Engineer with 10+ years of experience building **data platforms, ML systems, and AI-powered applications**. Currently pursuing a **Master’s degree in AI and Computer Engineering**, with a research focus on LLM-assisted application and database optimization, automated query optimization, and database performance engineering.
 
 ---
 
 ### What I Do
-- Design **lakehouse & distributed data systems**
-- Build **end-to-end data pipelines (batch & streaming)**
-- Develop **ML & LLM-powered applications (RAG, agents)**
-- Productionize systems with **cloud-native & DevOps practices**
+
+- Build **LLM-powered applications, RAG systems & AI agents**
+- Research **LLM-assisted application and database optimization**
+- Design **scalable data platforms and lakehouse architectures**
+- Develop **end-to-end ML & data pipelines**
+- Productionize AI and data systems with **cloud-native & DevOps practices**
 
 ---
 
 ### Tech Stack
-- **Languages**: SQL, Python, Java, Rust
-- **Data**: Lakehouse, Medallion, Spark/Trino, BigQuery, Iceberg, dbt, Airflow, CDC, Data Quality
-- **ML/AI**: MLOps, RAG, LLMs, Vector DBs  
-- **Infra**: Docker, Kubernetes, CI/CD, IaC, Cloud  
+
+- **Languages:** Python, SQL, Java
+- **AI/ML:** LLMs, RAG, AI Agents, MLOps, Vector DBs, PyTorch
+- **Data:** Spark, Trino, Iceberg, Delta Lake, dbt, Airflow, Kafka
+- **Research:** Query Rewriting, Code Generation, LLM-based Optimization, Query Optimization, Correctness Verification
+- **Cloud & Infra:** GCP, AWS, Docker, Kubernetes, CI/CD, Terraform, Pulumi
 
 ---
 
 ### Selected Projects
 
-- **[Thailand Air Quality Insights](https://github.com/dannykhant/dez-th-air-quality)**  
-  End-to-end GCP pipeline (Airflow + dbt + BigQuery) for PM2.5 analytics with data quality checks and BI-ready marts.
+- **[AI Body Weight Assistant](https://github.com/dannykhant/body-weight-assistant)** — Multi-agent AI system built with ADK + Gemini, featuring orchestration and human-in-the-loop workflows.
 
-- **[E-commerce Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)**  
-  Medallion architecture with production-grade data modeling.
+- **[RAG Running Coach](https://github.com/dannykhant/running-coach-5k)** — Retrieval-based AI application with an evaluation pipeline.
 
-- **[Weather Pipeline](https://github.com/dannykhant/weather-data-pipeline)**  
-  DAG-based ingestion pipeline into a cloud warehouse.
+- **[Small Language Model](https://github.com/dannykhant/mlz-small-language-model)** — Transformer-based language model with Rust inference and ONNX optimization.
 
-- **[Churn Prediction](https://github.com/dannykhant/mlz-employee-churn-prediction)**  
-  ML system with FastAPI inference + containerized deployment.
+- **[Data Platform (OSS)](https://github.com/dannykhant/data-platform-oss)** — Lakehouse platform using Iceberg + Trino with Kubernetes autoscaling via KEDA.
 
-- **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)**  
-  Deep learning system with embedding-based inference and model optimization.
+- **[Thailand Air Quality Insights](https://github.com/dannykhant/dez-th-air-quality)** — End-to-end GCP data platform using Airflow, dbt, and BigQuery for PM2.5 analytics.
 
-- **[Small Language Model](https://github.com/dannykhant/mlz-small-language-model)**  
-  Transformer + Rust inference + ONNX optimization.
+- **[E-commerce Pipeline](https://github.com/dannykhant/ecomm-data-pipeline)** — Medallion architecture with production-oriented data modeling.
 
-- **[Data Platform (OSS)](https://github.com/dannykhant/data-platform-oss)**  
-  Lakehouse platform with Iceberg + Trino, autoscaled via KEDA.
+- **[Churn Prediction](https://github.com/dannykhant/mlz-employee-churn-prediction)** — ML system with FastAPI inference and containerized deployment.
 
-- **[RAG Running Coach](https://github.com/dannykhant/running-coach-5k)**  
-  Retrieval-based AI system with evaluation pipeline.
-
-- **[AI Body Weight Assistant](https://github.com/dannykhant/body-weight-assistant)**  
-  Multi-agent AI system (ADK + Gemini) with orchestrator pattern, human-in-the-loop workflow, and personalized fitness planning.
+- **[Face Recognition](https://github.com/dannykhant/mlz-face-recognition)** — Deep learning system using embedding-based inference.
 
 ---
 
 ### Contact
-- LinkedIn: https://linkedin.com/in/dannykhant  
-- Email: dannypmkhant@gmail.com  
+
+- LinkedIn: https://linkedin.com/in/dannykhant
+- Email: dannypmkhant@gmail.com
